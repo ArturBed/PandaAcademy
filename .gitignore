@@ -2,3 +2,4 @@ target/
 !WhiteTriger/target/
 *.ear
 *Tiger*/**/*.jar
+*log??-04-*.log
